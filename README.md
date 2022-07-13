@@ -7,8 +7,11 @@ We will also track what OS the user is visiting, and the amount of requests they
 Quick start
 -----------
 Some optional settings are:
+
     ANALYTICS_BLOCKED_PATHS: 
+    
         List of paths that should not be tracked
+        
         Can be set to None
 
     ANALYTICS_BLOCKED_ROOT_PATH: 
