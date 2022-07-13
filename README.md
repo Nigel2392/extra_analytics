@@ -9,9 +9,7 @@ Quick start
 Some optional settings are:
 
     ANALYTICS_BLOCKED_PATHS: 
-    
         List of paths that should not be tracked
-        
         Can be set to None
 
     ANALYTICS_BLOCKED_ROOT_PATH: 
