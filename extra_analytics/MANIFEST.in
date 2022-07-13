@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include extra_analytics/static *
+recursive-include extra_analytics/templates *
