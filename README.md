@@ -1,9 +1,4 @@
 # extra_analytics
-Extra Analytics is a django app for collecting some analytics data about your users. What pages they visit, etc.
-
-=====
-Extra Analytics
-=====
 
 Extra Analytics is a Django app to collect extra information on where users are on your website
 We will also track what OS the user is visiting, and the amount of requests they made total.
