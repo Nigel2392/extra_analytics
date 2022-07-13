@@ -10,26 +10,38 @@ Quick start
 -----------
 Some optional settings are:
     ANALYTICS_BLOCKED_PATHS: 
+    
         List of paths that should not be tracked
+        
         Can be set to None
 
     ANALYTICS_BLOCKED_ROOT_PATH: 
+    
         Single path that should not be tracked
+        
         Can be set to None
 
     ANALYTICS_DISALLOW_REQUESTS_TO_FILES: 
         If True, requests to files will not be tracked
+        
         Can be set to None
+        
         Default is True
 
     ANALYTICS_REQUEST_TYPE_BLOCK_LIST: 
+    
         List of request methods that should not be tracked
+        
         Can be set to None
+        
         Default is ['POST']
 
     BLOCK_AJAX_REQUESTS: 
+    
         If True, AJAX requests will not be tracked
+        
         Can be set to None
+        
         Default is True
 
 You can put these settings in your settings.py file.
